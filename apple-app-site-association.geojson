@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["ABCDE12345.com.kia.impigertech.mykia"],
+        "paths": [ "/content/*" ]
+      }
+    ]
+  }
+}
